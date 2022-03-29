@@ -85,10 +85,6 @@ centro do browser. O container é invisível. */
     text-align: center; /**/
 }
 
-.imagem img {
-    border-radius: 100px;
-}
-
 .nome-completo {
     font-size: 36px; /**/
 
@@ -189,4 +185,8 @@ centro do browser. O container é invisível. */
 .estilo-icon {
     font-size: 32px;
     margin-right: 10px;
+}
+.imagem-principal {
+ width: 80%;
+
 }
